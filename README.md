@@ -15,7 +15,6 @@ A simple and interactive Flashcard app built using Flutter, where users can add,
 
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile from a single codebase.
 - **Provider**: A state management solution to manage the app's state efficiently.
-- **SharedPreferences**: For storing flashcards data locally on the device.
 - **Material Design**: For the app's UI design and components.
 
 ## Installation
