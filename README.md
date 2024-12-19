@@ -43,7 +43,7 @@ Some screenshots of the app.
 
 <img src="screenshots/home_screen.jpg" width="300" />
 
-This page shows the home screen where there are blue color bordored cards which means they are unflipped or their answer is not revealed.
+This page shows the home screen where there are blue color bordored cards which means they are unflipped or their answer is not yet revealed.
 
 <img src="screenshots/answer_green_screen.jpg" width="300" />
 
