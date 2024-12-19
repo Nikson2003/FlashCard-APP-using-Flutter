@@ -41,10 +41,37 @@ To run this project locally, you will need to have Flutter installed. Follow the
 
 Some screenshots of the app.
 
-**Home Screen**:
-
 <img src="screenshots/home_screen.jpg" width="300" />
 
+This page shows the home screen where there are blue color bordored cards which means they are unflipped or their answer is not revealed.
+
+<img src="screenshots/answer_green_screen.jpg" width="300" />
+
+This page shows the green color bordored card which means they are flipped and their answer is being shown.
+
+<img src="screenshots/question_red_screen.jpg" width="300" />
+
+This page shows the red color bordored card which means they are flipped and their question is being shown.
+
+<img src="screenshots/add_screen.jpg" width="300" />
+
+This is the page through which we can add the cards and it also has a proper validation mechanism.
+
+<img src="screenshots/add_card.jpg" width="300" />
+
+Home screen after adding the cards.
+
+<img src="screenshots/edit_screen.jpg" width="300" />
+
+This page allows to edit the card.
+
+<img src="screenshots/delete_screen.jpg" width="300" />
+
+Option to delete the card.
+
+<img src="screenshots/delete_card.jpg" width="300" />
+
+Home screen after the card deleted(removed). 
 
 ## Acknowledgements
 
