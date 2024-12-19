@@ -1,21 +1,51 @@
-<<<<<<< HEAD
-# flashcard_app
+# Flashcard App using Flutter
 
-A new Flutter project.
+A simple and interactive Flashcard app built using Flutter, where users can add, edit, and delete flashcards. The app helps users to create custom flashcards with a question and answer format, allowing for easy learning and revision.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Flashcards**: Create custom flashcards by entering a question and answer.
+- **Edit Flashcards**: Modify existing flashcards.
+- **Delete Flashcards**: Remove flashcards from the list.
+- **User Interface**: Simple and clean interface to manage flashcards with options to edit and delete.
+- **Visual Appealing**: The cards have a border color representing the question or answer or untapped card.
+- **Smoothness**: When tapped on the card, it gets flipped and shows the answer side if it was previously displaying the question side and vice versa. 
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile from a single codebase.
+- **Provider**: A state management solution to manage the app's state efficiently.
+- **SharedPreferences**: For storing flashcards data locally on the device.
+- **Material Design**: For the app's UI design and components.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# FlashCard-APP-using-Flutter
-A great flashcard app
->>>>>>> 0ea279a7763af04a1d993c7590bc3cf62f215139
+## Installation
+
+To run this project locally, you will need to have Flutter installed. Follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Nikson2003/FlashCard-APP-using-Flutter.git
+
+2. **Navigate into the project folder**:
+   ```bash
+   cd FlashCard-APP-using-Flutter
+
+3. **Install the dependencies**:
+   ```bash
+   flutter pub get
+
+4. **Run the app**:
+   ```bash
+   flutter run
+
+## Screenshots
+
+Some screenshots of the app.
+
+Home Screen : 
+
+
+## Acknowledgements
+
+- Flutter and Dart for providing a powerful framework for building cross-platform mobile apps.
+- Provider for easy state management.
