@@ -41,7 +41,9 @@ To run this project locally, you will need to have Flutter installed. Follow the
 
 Some screenshots of the app.
 
-Home Screen : 
+**Home Screen**:
+
+<img src="assets/screenshots/home_screen.jpg" width="400" />
 
 
 ## Acknowledgements
