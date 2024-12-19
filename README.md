@@ -43,7 +43,7 @@ Some screenshots of the app.
 
 **Home Screen**:
 
-<img src="screenshots/home_screen.jpg" width="400" />
+<img src="screenshots/home_screen.jpg" width="300" />
 
 
 ## Acknowledgements
